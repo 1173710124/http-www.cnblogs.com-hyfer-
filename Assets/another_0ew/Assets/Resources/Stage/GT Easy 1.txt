@@ -1,0 +1,70 @@
+osu file format v12
+
+[General]
+AudioFilename: Gypsy Tronic.mp3
+AudioLeadIn: 0
+PreviewTime: 55725
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 5805,25005,40365,55725,71085,86445,101805,117165,132525,147405
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 8
+
+[Metadata]
+Title:Gypsy Tronic
+TitleUnicode:Gypsy Tronic
+Artist:M2U
+ArtistUnicode:M2U
+Creator:Gomo Pslvarh
+Version:Easy
+Source:O2Jam
+Tags:ANALOG S.I.D-SOUND Lucy HAZARD jieusieu HelloSCV Ra-s lepidopodus Sonnyc
+BeatmapID:266524
+BeatmapSetID:100445
+
+[Difficulty]
+HPDrainRate:2
+CircleSize:3
+OverallDifficulty:2
+ApproachRate:3
+SliderMultiplier:1
+SliderTickRate:2
+
+[Events]
+//Background and Video events
+0,0,"bg.jpg",0,0
+//Break Periods
+2,86645,92685
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+//Background Colour Transformations
+3,100,163,162,255
+
+[TimingPoints]
+5805,480,4,2,0,54,1,0
+55725,-100,4,2,0,54,0,1
+71085,-100,4,2,0,61,0,0
+132525,-100,4,2,0,60,0,1
+147885,-100,4,2,0,59,0,0
+
+
+[Colours]
+Combo1 : 32,121,255
+Combo2 : 11,255,121
+Combo3 : 255,241,70
+Combo4 : 0,151,34
+
+[HitObjects]
+168,104,5805,2,0,P|128:192|160:288,1,200,4|0,0:0|0:0,0:0:0:0:
+353,286,7725,2,0,P|384:192|344:104,1,200
+120,32,9645,6,0,B|120:104|184:104|184:104|232:72|280:104,1,200
